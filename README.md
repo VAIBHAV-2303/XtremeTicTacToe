@@ -1,7 +1,7 @@
 # Authors
 
-* Vaibhav Garg[https://github.com/VAIBHAV-2303]
-* Anchit Gupta[https://github.com/Anchit1999]
+* [Vaibhav Garg](https://github.com/VAIBHAV-2303)
+* [Anchit Gupta](https://github.com/Anchit1999)
 
 # Algorithm
 
